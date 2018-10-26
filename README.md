@@ -1,9 +1,8 @@
 
 # 多页面Webpack4脚手架
 
-> Fork或借鉴请注明出处 [@ HeavenBin](https://github.com/HeavenBin/WebpackTemplate)  
-> 如果觉得对你有帮助的话，请也不要吝啬你手中宝贵的Star,使劲砸向我吧！   
-> 这将是对我最大的鼓励！！！✧(∗≧ꇴ≦)人(≧ꈊ≦∗)✧
+> 借鉴 [@ HeavenBin](https://github.com/HeavenBin/WebpackTemplate)  
+
 
 ## 项目构成
 <pre>
@@ -36,8 +35,8 @@
 > 需要NodeJS环境、git环境，
 > 我所使用的版本：node v10.1.0 npm 6.3.0
 1. 克隆库到本地
-> HTTPS方式： git clone https://github.com/HeavenBin/WebpackTemplate.git    
-> SSH方式：git clone git@github.com:HeavenBin/WebpackTemplate.git
+> HTTPS方式： git clone https://github.com/yyhhtml/webpack.git    
+
 
 2. cd WebpackTemplate 进入项目目录
 
